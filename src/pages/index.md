@@ -1,58 +1,49 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
-image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+title: BigFoot Wanderungen im Schwarzwald
+image: /img/headerbild.png
+heading: Wandern im Schwarwald ist ein gan besonderes Erlebnis
+subheading: WANDERN-ERLEBEN NATUR-GENIESSEN SPASS-HABEN
 mainpitch:
-  title: Why Kaldi
-  description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  title: "-"
+  description: |-
+    „Nur wo du zu Fuß warst, 
+    bist du auch wirklich gewesen.“
+    (J.W. von Goethe)
+description: Deshalb bieten wir dir geführte Wanderungen durch den wunderschönen
+  Schwarzwald. Erwandere dir sagenhafte Aussichten, atemberaubende Berggipfel
+  und verdiene dir deine Vesperpause in urigen Hütten. Alles liebevoll bis ins
+  lette Detail vorbereitet und begleitet von uns, Bernd und Eva. Als geprüfte
+  Wanderleiter zeigen wir dir verborgene Plätze und bringen dich sicher an das
+  Ziel. Ein besonders Abenteuer für alle zu jeder Jahreszeit!
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/headerbild.png
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
-    - image: /img/coffee-gear.png
-      text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
-    - image: /img/tutorials.png
-      text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
-    - image: /img/meeting-space.png
-      text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
-  heading: What we offer
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+        Schneeschuhverleih! 
+
+        Wenn der Winter uns mit besonders viel Schnee beschenkt, sind normale Wanderungen im Schwarzwald nicht mehr möglich. Deshalb haben wir Schneeschuhe um ganze Wandergruppen auszustatten. Wer also für ein ganz besonderes Abenteuer zu haben ist, leiht sich bei uns Schneeschuhe, oder macht eine geführte Schneeschuhtour mit uns. 
+    - image: /img/untitled-design-2-.png
+      text: >-
+        Wintertouren!
+
+        Sobald der erste Schnee fällt, zeigt sich der Schwarzwald als romantisches Winterwunderland. Eine geführte Wanderung, oder sogar eine 
+
+        Schneeschuhtour, machen jetzt besonders viel Spaß. Wir sorgen natürlich für genügend Gelegenheiten zum Aufwärmen. 
+    - image: /img/untitled-design-1-.png
+      text: >-
+        Sommertouren!
+
+        Geh mit uns auf eine geführte Wandertour durch den sommerlichen Schwarzwald. Erklimme Berge und erhol dich an kühlen Flüssen oder verborgenen Bergseen. Lass idr Geschichten und Sagen aus der Umgebung erzählen und erlebe ein Abenteuer, das dir noch lange in Erinnerung bleiben wird. 
+    - image: /img/button.png
+      text: |-
+        Wanderleiter!
+        Wir sind deine zertifizierten Wanderleiter für den Schwarzwald. 
+  heading: Das kannst du bei uns buchen
+  description: "Der Schwarwald hat seinen Reiz zu jeder Jahreseit. Egal ob im
+    schneebedeckten Winder oder im Sommer unter tiefgrünen Tannen. "
 main:
-  heading: Great coffee with no compromises
+  heading: Wandern im Schwarwald ist ein gan besonderes Erlebnis
   description: >
     We hold our coffee to the highest standards from the shrub to the cup.
     That’s why we’re meticulous and transparent about each step of the coffee’s
