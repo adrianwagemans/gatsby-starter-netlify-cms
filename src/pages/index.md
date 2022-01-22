@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: BigFoot Wanderungen im Schwarzwald
-image: /img/schneeschuh-verleih.png
+image: /img/headerbild.png
 heading: Wandern im Schwarwald ist ein gan besonderes Erlebnis
 subheading: WANDERN-ERLEBEN NATUR-GENIESSEN SPASS-HABEN
 mainpitch:
@@ -18,7 +18,7 @@ description: Deshalb bieten wir dir geführte Wanderungen durch den wunderschön
   Ziel. Ein besonders Abenteuer für alle zu jeder Jahreszeit!
 intro:
   blurbs:
-    - image: /img/headerbild.png
+    - image: /img/schneeschuh-verleih.png
       text: >
         Schneeschuhverleih! 
 
