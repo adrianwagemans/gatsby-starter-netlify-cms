@@ -5,7 +5,7 @@ image: /img/black-forest-1205074.jpg
 heading: Wandern im Schwarwald ist ein gan besonderes Erlebnis
 subheading: WANDERN-ERLEBEN NATUR-GENIESSEN SPASS-HABEN
 mainpitch:
-  title: "-"
+  title: '-'
   description: |-
     „Nur wo du zu Fuß warst, 
     bist du auch wirklich gewesen.“
@@ -40,8 +40,8 @@ intro:
         Wanderleiter!
         Wir sind deine zertifizierten Wanderleiter für den Schwarzwald.
   heading: Das kannst du bei uns buchen
-  description: "Der Schwarwald hat seinen Reiz zu jeder Jahreseit. Egal ob im
-    schneebedeckten Winder oder im Sommer unter tiefgrünen Tannen. "
+  description: 'Der Schwarwald hat seinen Reiz zu jeder Jahreseit. Egal ob im
+    schneebedeckten Winder oder im Sommer unter tiefgrünen Tannen. '
 main:
   heading: Wandern im Schwarwald ist ein gan besonderes Erlebnis
   description: >
