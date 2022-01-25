@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: BigFoot Wanderungen im Schwarzwald
-image: /img/schwarzwald_header.jpg
+image: /img/black-forest-1205074.jpg
 heading: Wandern im Schwarwald ist ein gan besonderes Erlebnis
 subheading: WANDERN-ERLEBEN NATUR-GENIESSEN SPASS-HABEN
 mainpitch:
