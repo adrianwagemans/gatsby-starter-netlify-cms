@@ -38,7 +38,7 @@ main:
     absolviert. Was unsere Touren jedoch wirklich einzigartig macht, ist die
     Liebe zu unserer Region, der Natur und dem Abenteuer an der frischen Luft.
     Wenn auch du dich gerne bewegst und gerne ein ganz besonderes Abenteuer im
-    Schwarzwald und Elsas erleben möchtest, bist du bei uns an genau der
+    Schwarzwald und Elsass erleben möchtest, bist du bei uns an genau der
     richtigen Adresse. Wir freuen uns von dir zu hören!
   image1:
     alt: Feldsee Schwarzwald
