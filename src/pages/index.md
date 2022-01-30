@@ -2,8 +2,8 @@
 templateKey: index-page
 title: "BigFoot Wanderungen "
 image: /img/forest-5903010_1920.jpg
-heading: Wandern im Schwarzwald oder im Elsas sind ein ganz besonderes Erlebnis
-subheading: im Schwarzwald und im Elsas
+heading: Wandern im Schwarzwald oder im Elsas sind ein ganz besonderes Erlebniss
+subheading: im Schwarzwald und im Elsass
 mainpitch:
   title: "-"
   description: |-
@@ -11,7 +11,7 @@ mainpitch:
     bist du auch wirklich gewesen.“
     (J.W. von Goethe)
 description: Deshalb bieten wir dir geführte Wanderungen an. Erwandere dir
-  sagenhafte Aussichten im Elsas, atemberaubende Berggipfel im Schwarzwald und
+  sagenhafte Aussichten im Elsass, atemberaubende Berggipfel im Schwarzwald und
   verdiene dir deine Vesperpause in urigen Hütten. Alles liebevoll bis ins
   letzte Detail vorbereitet und begleitet von uns, Bernd und Eva. Als geprüfte
   Wanderleiter zeigen wir dir verborgene Plätze und bringen dich sicher an das
@@ -27,15 +27,15 @@ intro:
       text: >-
         Wintertouren!
 
-        Sobald der erste Schnee fällt, zeigt sich Schwarzwald und Elsas als romantisches Winterwunderland. Eine geführte Wanderung, oder sogar eine Schneeschuhtour, machen jetzt besonders viel Spaß. Wir sorgen natürlich für genügend Gelegenheiten zum Aufwärmen. Frag uns auch gerne nach unseren Wochenendangeboten mit Übernachtungen. 
+        Sobald der erste Schnee fällt, zeigt sich Schwarzwald und Elsass als romantisches Winterwunderland. Eine geführte Wanderung, oder sogar eine Schneeschuhtour, machen jetzt besonders viel Spaß. Wir sorgen natürlich für genügend Gelegenheiten zum Aufwärmen. Frag uns auch gerne nach unseren Wochenendangeboten mit Übernachtungen. 
     - image: /img/untitled-design-1-.png
       text: >-
         Sommertouren!
 
-        Geh mit uns auf eine geführte Wandertour durch den sommerlichen Schwarzwald. Erklimme Berge im Elsas und erhol dich an kühlen Flüssen oder verborgenen Bergseen. Lass dir Geschichten und Sagen aus der Umgebung erzählen und erlebe ein Abenteuer, das dir noch lange in Erinnerung bleiben wird.
+        Geh mit uns auf eine geführte Wandertour durch den sommerlichen Schwarzwald. Erklimme Berge im Elsass und erhol dich an kühlen Flüssen oder verborgenen Bergseen. Lass dir Geschichten und Sagen aus der Umgebung erzählen und erlebe ein Abenteuer, das dir noch lange in Erinnerung bleiben wird.
     - image: /img/button.png
       text: Wir sind deine zertifizierten Wanderleiter für den Schwarzwald und das
-        Elsas.
+        Elsass.
   heading: Das kannst du bei uns buchen
   description: "Der Schwarwald hat seinen Reiz zu jeder Jahreseit. Egal ob im
     schneebedeckten Winder oder im Sommer unter tiefgrünen Tannen. "
