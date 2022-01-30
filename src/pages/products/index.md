@@ -4,8 +4,8 @@ path: /products
 templateKey: product-page
 title: Lerne uns kennen
 image: /img/schwarzwald_header.jpg
-description: "Kontaktiere uns gerne u unseren Touren und den Möglichkeiten einer
-  unvergesslichen Tour für dich und deine Gruppe. Egal ob als Freunde, zu
+description: "Kontaktiere uns gerne zu unseren Touren und den Möglichkeiten
+  einer unvergesslichen Tour für dich und deine Gruppe. Egal ob als Freunde, zu
   Geburtstagen, Arbeitsausflüge, Teambildung oder vieles mehr. Wir freuen uns
   auf euch! "
 intro:
@@ -24,7 +24,7 @@ intro:
         Ich passe darauf auf, dass auch alle 
         mit Spaß und Freude mithalten können. 
         Mit viel Einfühlungsvermögen und 
-        Spaß am zusammensein mit neuen Leute, 
+        Spaß am Zusammensein mit neuen Leuten, 
         wird es mit mir sicher nie langweilig.
   heading: What we offer
   description: >
@@ -34,11 +34,11 @@ intro:
     knowledge to anyone. This is an edit via identity...
 main:
   heading: Wir sind geprüfte Wanderleiter
-  description: Frag uns gerne nach unserem Zertifikat zum Wanderleiter, absolviert
-    beim Schwarzwaldverein. Was unsere Touren jedoch wirklich einzigartig macht,
-    ist die Liebe zu unserer Heimat, der Natur und dem Abenteuer an der frischen
-    Luft. Wenn auch du dich gerne bewegst und gerne ein ganz besonderes
-    Abenteuer im Schwarzwald erleben mochtest, bist du bei uns an genau der
+  description: Wir haben unsere Wanderleiterausbildung bei den Naturfreunden
+    absolviert. Was unsere Touren jedoch wirklich einzigartig macht, ist die
+    Liebe zu unserer Region, der Natur und dem Abenteuer an der frischen Luft.
+    Wenn auch du dich gerne bewegst und gerne ein ganz besonderes Abenteuer im
+    Schwarzwald und Elsas erleben möchtest, bist du bei uns an genau der
     richtigen Adresse. Wir freuen uns von dir zu hören!
   image1:
     alt: Feldsee Schwarzwald
@@ -51,7 +51,7 @@ main:
     image: /img/schwarzwald_eiszapfen.jpg
 testimonials:
   - author: Janna
-    quote: Wandern mit Bigfoot war ein super tolles erlebnis. Mir haben am Abend die
+    quote: Wandern mit Bigfoot war ein super tolles Erlebnis. Mir haben am Abend die
       Beine weh getan vom Laufen, aber ich war super zufrieden! Geschlafen habe
       ich auch so gut wie schon lange nicht mehr.
   - author: Adrian
