@@ -18,7 +18,7 @@ description: Deshalb bieten wir dir geführte Wanderungen an. Erwandere dir
   Ziel. Ein besonders Abenteuer für alle zu jeder Jahreszeit!
 intro:
   blurbs:
-    - image: /img/schneeschuh-verleih.png
+    - image: /img/schneeschuh_verleih.png
       text: >
         Schneeschuhverleih! 
 
@@ -33,7 +33,7 @@ intro:
         Sommertouren!
 
         Geh mit uns auf eine geführte Wandertour durch den sommerlichen Schwarzwald. Erklimme Berge im Elsass und erhol dich an kühlen Flüssen oder verborgenen Bergseen. Lass dir Geschichten und Sagen aus der Umgebung erzählen und erlebe ein Abenteuer, das dir noch lange in Erinnerung bleiben wird.
-    - image: /img/button.png
+    - image: /img/salli-im-schwarzwals.png
       text: Wir sind deine zertifizierten Wanderleiter für den Schwarzwald und das
         Elsass.
   heading: Das kannst du bei uns buchen
