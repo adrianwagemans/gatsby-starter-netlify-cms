@@ -1,36 +1,35 @@
 ---
 templateKey: blog-post
-title: 10 hiking paths for blackforest in summer 2022
-date: 2017-01-04T15:04:10.000Z
-description: >
-  Vis id minim dicant sensibus. Pri aliquip conclusionemque ad, ad malis
-  evertitur torquatos his. Has ei solum harum reprimique, id illum saperet
-  tractatos his. Ei omnis soleat antiopam quo. Ad augue inani postulant mel, mel
-  ea qualisque forensibus.
+title: Schöne Tour mit einer Gruppe lebenslustiger Menschen
+date: 2022-01-22T15:04:10.000Z
+description: Dieser Samstag, 22.Januar 2022 war nicht uneingeschränkt sonnig,
+  wir hatten zu Beginn Nebel und die Hoffnung, Sonne zu finden. Was wir dann
+  auch taten!
 featuredpost: false
-featuredimage: /img/winter3.jpg
+featuredimage: /img/nebel-schwarzwald.jpg
 tags:
-  - hiking
-  - summer
-  - blackforest
+  - nebel
+  - schnee
+  - wandern
+  - schwarzwald
+  - natur
+  - gipfel
+  - ""
 ---
-![chemex](/img/winter3.jpg)
+<!--StartFragment-->
 
-His audiam deserunt in, eum ubique voluptatibus te. In reque dicta usu. Ne rebum dissentiet eam, vim omnis deseruisse id. Ullum deleniti vituperata at quo, insolens complectitur te eos, ea pri dico munere propriae. Vel ferri facilis ut, qui paulo ridens praesent ad. Possim alterum qui cu. Accusamus consulatu ius te, cu decore soleat appareat usu.
+Ja, unsere Teilnehmer sind so unterschiedlich wie es nur sein kann. **Dieses Mal hatten wir eine Truppe von schon recht lebenserfahrenen Menschen, die sich auf dem Berg getroffen und auf wunderbare Weise zu einer schönen Gruppe zusammengefunden haben.** Von Hamburg, Berlin, aus Karlsruhe, Sachsen und Thüringen kamen sie, selbst ein Engländer war dabei. 
 
-Vis id minim dicant sensibus. Pri aliquip conclusionemque ad, ad malis evertitur torquatos his. Has ei solum harum reprimique, id illum saperet tractatos his. Ei omnis soleat antiopam quo. Ad augue inani postulant mel, mel ea qualisque forensibus.
+Zugegeben, diese Tour sind wir nicht für Bigfoot gelaufen, sondern in unserem ehrenamtlichen Engagement für die Naturfreunde Feldberg. Aber auch hier sind wir, wie immer, mit viel Freude, Motivation und Spaß am Umgang mit Mensch und Natur dabei. Immer wieder faszinieren uns die Teilnehmer, wenn sie ihre Kraftreserven rausholen, trotz schon einiger Jahre auf dem Buckel voll dabei sind und Leistungen bringen, die uns immer wieder Respekt einflößen. 
 
-## The little secrets of Chemex brewing
+Dieser Samstag, 22.Januar 2022 war nicht uneingeschränkt sonnig, wir hatten zu Beginn Nebel und die Hoffnung, Sonne zu finden. Was wir dann auch taten! **Es ist wundervoll, aus einer Nebelsuppe langsam in die Sonne zu laufen und den Blick frei schweifen lassen zu können!** Auf dieser Tour, die uns zur Einkehr in den schönen Raimartihof brachte, rissen die Wolken beim Aufstieg über den Seebuck zum Bismarckdenkmal auf. 
 
-Expetenda tincidunt in sed, ex partem placerat sea, porro commodo ex eam. His putant aeterno interesset at. Usu ea mundi tincidunt, omnium virtute aliquando ius ex. Ea aperiri sententiae duo. Usu nullam dolorum quaestio ei, sit vidit facilisis ea. Per ne impedit iracundia neglegentur. Consetetur neglegentur eum ut, vis animal legimus inimicus id.
+Ein unbeschreibliches Erlebnis, es wurden Fotos gemacht auf Teufel komm raus. Unsere Teilnehmer konnten jeweils ihr Tempo laufen, wir begleiteten hier mit drei Wanderführern, so dass niemand auf der Strecke blieb.  **Immer wieder auch für uns ein Erlebnis, Menschen aus ganz Deutschland kennen zu lernen und wunderschöne Gespräche während der Tour oder in den Pausen zu führen.** 
 
-1. Always buy dedicated Chemex filters.
-2. Use a scale, don’t try to eyeball it.
-3. Never skip preheating the glass.
-4. Timing is key, don’t forget the clock.
+Und immer wieder schön, wie die Natur gewürdigt und genossen wird, da sich bei unseren Aktionen immer Gleichgesinnte finden. Herrlich, mehr davon! Traut Euch, mit uns zu laufen, wir passen jede Tour an die Gruppe an,
 
-At cum soleat disputationi, quo veri admodum vituperata ad. Ea vix ceteros complectitur, vel cu nihil nullam. Nam placerat oporteat molestiae ei, an putant albucius qui. Oblique menandri ei his, mei te mazim oportere comprehensam.
+*wir freuen uns auf Euch,*
 
-Vis id minim dicant sensibus. Pri aliquip conclusionemque ad, ad malis evertitur torquatos his. Has ei solum harum reprimique, id illum saperet tractatos his. Ei omnis soleat antiopam quo. Ad augue inani postulant mel, mel ea qualisque forensibus.
+*Bernd und Eva*
 
-Expetenda tincidunt in sed, ex partem placerat sea, porro commodo ex eam. His putant aeterno interesset at. Usu ea mundi tincidunt, omnium virtute aliquando ius ex. Ea aperiri sententiae duo. Usu nullam dolorum quaestio ei, sit vidit facilisis ea. Per ne impedit iracundia neglegentur. Consetetur neglegentur eum ut, vis animal legimus inimicus id.
+<!--EndFragment-->
