@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: " Erste Tour nach zwei Jahren Corona Zwangspause"
-date: 2022-02-16T15:04:10.000Z
+date: 2022-01-16T15:04:10.000Z
 description: "Bewegung, Gleichgesinnte, unfassbar schöne Natur und Spaß ohne
   Ende. Der Feldberg zeigte sich von seiner rauen aber schönen Seite: kalt,
   sonnig und sehr windig auf dem Gipfel."
