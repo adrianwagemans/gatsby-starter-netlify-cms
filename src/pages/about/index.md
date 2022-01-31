@@ -15,7 +15,7 @@ Telefon: 07821/29513
 
 E-Mail: info@bigfoot-wanderungen.com
 
-Umsatzsteuer-Identifikationsnummer gem. § 27a UStG: DE 123456789
+Umsatzsteuer-Identifikationsnummer gem. § 27a UStG: DE 10350/01122
 
 Inhaltlich Verantwortlicher: Bernd Schmidt (Anschrift s.o.)
 
