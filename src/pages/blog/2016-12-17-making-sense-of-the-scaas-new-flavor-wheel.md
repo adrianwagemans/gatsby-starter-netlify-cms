@@ -1,38 +1,35 @@
 ---
 templateKey: blog-post
-title: How to hike in snow?
-date: 2016-12-17T15:04:10.000Z
-description: "His audiam deserunt in, eum ubique voluptatibus te. In reque dicta
-  usu. Ne rebum dissentiet eam, vim omnis deseruisse id. Ullum deleniti
-  vituperata at quo, insolens complectitur te eos, ea pri dico "
+title: Wenn mal kein Teilnehmer da ist und wir aber vor Ort sind....
+date: 2022-01-23T15:04:10.000Z
+description: Eine unglaubliche Nebelwalze zeigte sich, das Wetter riss auf und
+  wir bekamen als Belohnung einen supersonnigen Mittag.
 featuredpost: false
-featuredimage: /img/winter2.jpg
+featuredimage: /img/feldberg.jpg
 tags:
-  - Hiking
-  - snow
-  - blackforest
+  - wandern
+  - schwarzwald
+  - natur
+  - hütte
+  - schnee
+  - ""
 ---
-![flavor wheel](/img/winter2.jpg)
+<!--StartFragment-->
 
-His audiam deserunt in, eum ubique voluptatibus te. In reque dicta usu. Ne rebum dissentiet eam, vim omnis deseruisse id. Ullum deleniti vituperata at quo, insolens complectitur te eos, ea pri dico 
+**​Am Sonntag nach der Tour mit den Leuten aus ganz Deutschland standen wir drei Wanderleiter dann ungeplant ohne Teilnehmer da, weil die Heimreise der Gruppe nicht ganz problemlos zu organisieren war.** Schließlich mussten viele noch weit reisen und man einigte sich, das Runterkommen vom Berg durch Zusammenschlüsse der Teilnehmer zu erleichtern. Und irgendwie lockte dann auch noch eine Schwarzwälder Kirschtorte in Hinterzarten und "Zack", standen wir alleine da! 
 
-## What the updates mean to you
+**Aber da wir ja nie genug bekommen können, sind wir halt ohne Teilnehmer bei recht dichtem Nebel direkt vom Naturfreundehaus auf den Gipfel gestiegen**. Immer schön hinter einander um eine schöne Spur zu legen. Schon tausend Mal oben gewesen und jedes Mal ist es ein neues Erlebnis! 
 
-Vis id minim dicant sensibus. Pri aliquip conclusionemque ad, ad malis evertitur torquatos his. Has ei solum harum reprimique, id illum saperet tractatos his. Ei omnis soleat antiopam quo. Ad augue inani postulant mel, mel ea qualisque forensibus.
+Eine unglaubliche Nebelwalze zeigte sich, das Wetter riss auf und wir bekamen als Belohnung einen supersonnigen Mittag. Das kann man nur hier erleben! 
 
-Expetenda tincidunt in sed, ex partem placerat sea, porro commodo ex eam. His putant aeterno interesset at. Usu ea mundi tincidunt, omnium virtute aliquando ius ex. Ea aperiri sententiae duo. Usu nullam dolorum quaestio ei, sit vidit facilisis ea. Per ne impedit iracundia neglegentur. Consetetur neglegentur eum ut, vis animal legimus inimicus id.
+Der Abstieg über die Zastler Hütte und den Naturlehrpfad machten wir, um für die nächste Tour am kommenden Wochenende zu erkunden, ob der Naturlehrpfad mit Schneeschuhen und einer und unbekannten Gruppe begehbar ist. Wir entschieden und dagegen, zu gefährlich. **Zumal es sich um eine Nachmittag-Abendtour handeln wird und wir diesen Teil dann mit Stirnlampen im Dunkeln gehen würden!** Das ist uns dann doch zu brenzlig, wir werden andere, genauso schöne Wege gehen. 
 
-At cum soleat disputationi, quo veri admodum vituperata ad. Ea vix ceteros complectitur, vel cu nihil nullam. Nam placerat oporteat molestiae ei, an putant albucius qui. Oblique menandri ei his, mei te mazim oportere comprehensam.
+Den Abschluss machten wir dann wieder in der Baldenweger Hütte, da kann man auch nicht oft genug hingehen! Die neuen Wirtsleute machen ihre Sache super, wir sind begeistert. 
 
-* producers
-* roasters
-* importers/exporters
-* retailers
-* manufacturers
-* baristas
+Lasst Euch von uns überraschen, wir sind immer wieder gut dafür!
 
-Vis id minim dicant sensibus. Pri aliquip conclusionemque ad, ad malis evertitur torquatos his. Has ei solum harum reprimique, id illum saperet tractatos his. Ei omnis soleat antiopam quo. Ad augue inani postulant mel, mel ea qualisque forensibus.
+*Bis denn,*
 
-Expetenda tincidunt in sed, ex partem placerat sea, porro commodo ex eam. His putant aeterno interesset at. Usu ea mundi tincidunt, omnium virtute aliquando ius ex. Ea aperiri sententiae duo. Usu nullam dolorum quaestio ei, sit vidit facilisis ea. Per ne impedit iracundia neglegentur. Consetetur neglegentur eum ut, vis animal legimus inimicus id.
+*Bernd und Eva*
 
-At cum soleat disputationi, quo veri admodum vituperata ad. Ea vix ceteros complectitur, vel cu nihil nullam. Nam placerat oporteat molestiae ei, an putant albucius qui. Oblique menandri ei his, mei te mazim oportere comprehensam.
+<!--EndFragment-->
