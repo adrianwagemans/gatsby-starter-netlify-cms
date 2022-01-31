@@ -1,31 +1,44 @@
 ---
 templateKey: blog-post
-title: Summer, Winter spring or authum best season to visit blackforest
-date: 2017-01-04T15:04:10.000Z
-description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam
-  nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.
-  Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit
-  lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriu
+title: " Erste Tour nach zwei Jahren Corona Zwangspause"
+date: 2022-02-16T15:04:10.000Z
+description: "Bewegung, Gleichgesinnte, unfassbar schöne Natur und Spaß ohne
+  Ende. Der Feldberg zeigte sich von seiner rauen aber schönen Seite: kalt,
+  sonnig und sehr windig auf dem Gipfel."
 featuredpost: false
-featuredimage: /img/winter2.jpg
+featuredimage: /img/schneeschuh-wandern.jpg
 tags:
-  - jamaica
-  - green beans
-  - flavor
-  - tasting
+  - winter
+  - schnee
+  - schneeschuh
+  - wandern
+  - wanderung
+  - ""
 ---
-Cu nam labores lobortis definiebas, ei aliquyam salutatus persequeris quo, cum eu nemore fierent dissentiunt. Per vero dolor id, vide democritum scribentur eu vim, pri erroribus temporibus ex. Euismod molestie offendit has no. Quo te semper invidunt quaestio, per vituperatoribus sadipscing ei, partem aliquyam sensibus in cum.
+<!--StartFragment-->
 
-## A little history
+Wie überall hat dieses mistige Virus auch uns lahm gelegt und wir konnten zwei Jahre keine geführten Touren anbieten.
 
-The Blue Mountains are considered by many to be a hiker's and camper's paradise. The traditional Blue Mountain trek is a 7-mile hike to the peak and consists of a 3,000-foot increase in elevation. Jamaicans prefer to reach the peak at sunrise, thus the 3–4 hour hike is usually undertaken in darkness. Since the sky is usually very clear in the mornings, Cuba can be seen in the distance.
+Ohne Teilnehmer sind wir natürlich trotzdem gelaufen, schließlich müssen wir ja fit bleiben, neue Wege erkunden und unserer Leidenschaft trotz allem fröhnen. Aber die erste Tour wieder mit einer Gruppe nach so langer Zeit hat auch uns enormen Spaß gemacht.
 
-> Some of the plants found on the Blue Mountain cannot be found anywhere else in the world and they are often of a dwarfed sort.
+##### Wir hatten eine super motivierte elfköpfige Truppe, die unsere Begeisterung teilte und uns wieder gezeigt hat, warum wir das machen: 
 
-This is mainly due to the cold climate which inhibits growth. The small coffee farming communities of Claverty Cottage and Hagley Gap are located near the peak.
+Bewegung, Gleichgesinnte, unfassbar schöne Natur und Spaß ohne Ende. Der Feldberg zeigte sich von seiner rauen aber schönen Seite: kalt, sonnig und sehr windig auf dem Gipfel. Manch einer musste beim Aufstieg beißen, hatte Päuschen nötig und schaffte es doch, stolz auf dem Gipfel
 
-## What you need to know before trying
+zu stehen und das mitgebrachte Schnäpsle zu genießen. Herrliche, etwas diesige Sicht auf die Alpen. Spüren der Naturgewalten auf dem Höchsten und ein wohliges Gefühl, etwas "geschafft zu haben". Vom Gipfel ging es dann wieder hinab in die Baldenweger Hütte zur Einkehr. 
 
-JHis audiam deserunt in, eum ubique voluptatibus te. In reque dicta usu. Ne rebum dissentiet eam, vim omnis deseruisse id. Ullum deleniti vituperata at quo, insolens complectitur te eos, ea pri dico munere propriae. Vel ferri facilis ut, qui paulo ridens praesent ad. Possim alterum qui cu. Accusamus consulatu ius te, cu decore soleat appareat usu.Jamaican Blue Mountain Coffee is a globally protected certification mark, meaning only coffee certified by the Coffee Industry Board of Jamaica can be labeled as such. It comes from a recognized growing region in the Blue Mountain region of Jamaica, and its cultivation is monitored by the Coffee Industry Board of Jamaica.
+**Zuerst draußen, aber die Sonne verschwand hinter dem Berg und ließ uns frösteln. Wir konnten in die warme Stube umziehen und unser superleckeres und verdientes Essen in der Wärme genießen. Ein unbeschreibliches Erlebnis!**
 
-appareat usu.Jamaican Blue Mountain Coffee is a globally protected certification mark, meaning only coffee certified by the Coffee Industry Board of Jamaica can be labeled as such. It comes from a recognized growing region in the Blue Mountain region of Jamaica, and its cultivation is monitored by the Coffee Industry Board of Jamaica.
+Für den Rückweg boten wir zwei Varianten an und ließen die Gruppe entscheiden: eine Tour von eineinhalb Stunden oder die kurze von einer halben Stunde. Die Entscheidung fiel einstimmig für die kurze Tour! Wir sind da flexibel, schließlich ist der Kunde König!! 
+
+Und da wir seit diesem Jahr elektrisch unterwegs sind, hatten wir so noch Zeit, in Hinterzarten Strom zu tanken, um den Heimweg auch ohne "Stromausfall hinzukriegen"! Da müssen wir aber noch ein bisschen an der Durchführung feilen!
+
+Wir sind bereit für eine schöne und erlebnisreiche neue Saison und freuen uns, schon eine Menge Buchungen reinbekommen zu haben. Noch sind ein paar Termine zu haben, immer abhängig von Wetter- und Schneelage. Wer Lust auf ein solches Erlebnis hat, meldet sich einfach über das Kontaktformular.
+
+Wir freuen uns auf jede Gruppe ab sechs Personen, legen bei weniger Teilnehmern auch mal Gruppen zusammen. 
+
+*Bis bald,*
+
+*Bernd und Eva*
+
+<!--EndFragment-->
