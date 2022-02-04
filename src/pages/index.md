@@ -1,8 +1,8 @@
 ---
 templateKey: index-page
-title: BigFoot Wanderungen im Schwarzwald
+title: "BigFoot Wanderungen "
 image: /img/forest-5903010_1920.jpg
-heading: Wandern im Schwarzwald oder im Elsas sind ein ganz besonderes Erlebniss
+heading: Wandern im Schwarzwald oder im Elsass sind ein ganz besonderes Erlebniss
 subheading: im Schwarzwald und im Elsass
 mainpitch:
   title: "-"
