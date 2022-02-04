@@ -115,8 +115,13 @@ export default class Index extends React.Component {
             <p>
               Für einen Gewerbetreibenden, der nicht im Handelsregister
               eingetragen ist, könnte das Impressum beispielsweise wie folgt
-              aussehen: Bernd Schmidt Lindenhof 29 77933 Lahr Telefon:
-              07821/29513 E-Mail: info@bigfoot-wanderungen.com
+              aussehen:
+              <p>
+                E-Mail: <strong>info@bigfoot-wanderungen.com</strong>
+              </p>
+              <p>Bernd Schmidt</p>
+              <p>Lindenhof 29 77933 Lahr</p>
+              <p>Telefon: 07821/29513</p>
               Umsatzsteuer-Identifikationsnummer gem. § 27a UStG: DE 10350/01122
               Inhaltlich Verantwortlicher: Bernd Schmidt (Anschrift s.o.)
             </p>
