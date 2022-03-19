@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: Letzte Tour der Saison 2022
 date: 2022-03-12T13:32:35.236Z
-description: Für diese Saison sind wir mit Schneeschuh Wanderungen durch**,
+description: Für diese Saison sind wir mit Schneeschuh Wanderungen durch,
   bisschen wehmütig auch wir aber trotzdem voller Vorfreude auf das sich schon
   ankündigende Frühjahr.
 featuredpost: true
